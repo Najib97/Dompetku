@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://script.google.com/macros/s/SCRIPT_ID/exec",
+      "permanent": false
+    }
+  ]
+}
